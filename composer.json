@@ -1,0 +1,21 @@
+{
+    "name": "masterro/laravel-chronos",
+    "description": "Replace Carbon\\Carbon with Cake\\Chronos\\Chronos",
+    "require": {
+        "cakephp/chronos": "^1.1",
+        "illuminate/support": ">=5.0 <5.6"
+    },
+    "license": "MIT",
+    "keywords": ["laravel", "date", "carbon", "chronos"],
+    "authors": [
+        {
+            "name": "Roman Ihoshyn",
+            "email": "igoshin18@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "MasterRO\\Chronos\\": "src/"
+        }
+    }
+}
