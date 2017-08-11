@@ -3,11 +3,21 @@
 </p>
 
 <p align="center">
-![Latest Stable Version](https://poser.pugx.org/masterro/laravel-chronos/v/stable)](https://packagist.org/packages/masterro/laravel-chronos)
-![Total Downloads](https://poser.pugx.org/masterro/laravel-chronos/downloads)](https://packagist.org/packages/masterro/laravel-chronos)
-![Latest Unstable Version](https://poser.pugx.org/masterro/laravel-chronos/v/unstable)](https://packagist.org/packages/masterro/laravel-chronos)
-![License](https://poser.pugx.org/masterro/laravel-chronos/license)](https://packagist.org/packages/masterro/laravel-chronos)
-![composer.lock](https://poser.pugx.org/masterro/laravel-chronos/composerlock)](https://packagist.org/packages/masterro/laravel-chronos)
+    <a href="https://packagist.org/packages/masterro/laravel-chronos">
+        <img src="https://poser.pugx.org/masterro/laravel-chronos/v/stable" alt="Latest Stable Version">
+    </a>
+    <a href="https://packagist.org/packages/masterro/laravel-chronos">
+        <img src="https://poser.pugx.org/masterro/laravel-chronos/downloads" alt="Total Downloads">
+    </a>
+    <a href="https://packagist.org/packages/masterro/laravel-chronos">
+        <img src="https://poser.pugx.org/masterro/laravel-chronos/v/unstable" alt="Latest Unstable Version">
+    </a>
+    <a href="https://github.com/MasterRO94/laravel-chronos/blob/master/LICENSE">
+        <img src="https://poser.pugx.org/masterro/laravel-chronos/license" alt="License">
+    </a>
+    <a href="https://github.com/MasterRO94/laravel-chronos/blob/master/LICENSE">
+        <img src="https://poser.pugx.org/masterro/laravel-chronos/composerlock" alt="composer.lock">
+    </a>
 </p>
 
 # Laravel Chronos
