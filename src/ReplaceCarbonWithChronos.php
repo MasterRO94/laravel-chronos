@@ -9,7 +9,7 @@ trait ReplaceCarbonWithChronos
 	/**
 	 * @param $value
 	 *
-	 * @return Chronos|static
+	 * @return ChronosContract|Chronos|static
 	 */
 	protected function asDateTime($value)
 	{
