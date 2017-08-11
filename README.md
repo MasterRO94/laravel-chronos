@@ -19,3 +19,8 @@ composer require masterro/laravel-chronos
 ## Replace Carbon with Chronos
 Add `ReplaceCarbonWithChronos` trait to your base model, or to models you want to use Chronos instead of Carbon.
 Don't forget add `MasterRO\Chronos\ReplaceCarbonWithChronos` to use section.
+
+
+## Attention 
+*Dont't confuse `MasterRO\Chronos\Chronos` with `Cake\Chronos\Chronos` because `MasterRO\Chronos\Chronos` is macroable and `Cake\Chronos\Chronos` is not.*
+ `MasterRO\Chronos\Chronos` implements ChronosContract so you can check and typehint inerface insteadof class name.
