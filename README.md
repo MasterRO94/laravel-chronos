@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-[![Latest Stable Version](https://poser.pugx.org/masterro/laravel-chronos/v/stable)](https://packagist.org/packages/masterro/laravel-chronos)
-[![Total Downloads](https://poser.pugx.org/masterro/laravel-chronos/downloads)](https://packagist.org/packages/masterro/laravel-chronos)
-[![Latest Unstable Version](https://poser.pugx.org/masterro/laravel-chronos/v/unstable)](https://packagist.org/packages/masterro/laravel-chronos)
-[![License](https://poser.pugx.org/masterro/laravel-chronos/license)](https://packagist.org/packages/masterro/laravel-chronos)
-[![composer.lock](https://poser.pugx.org/masterro/laravel-chronos/composerlock)](https://packagist.org/packages/masterro/laravel-chronos)
+![Latest Stable Version](https://poser.pugx.org/masterro/laravel-chronos/v/stable)](https://packagist.org/packages/masterro/laravel-chronos)
+![Total Downloads](https://poser.pugx.org/masterro/laravel-chronos/downloads)](https://packagist.org/packages/masterro/laravel-chronos)
+![Latest Unstable Version](https://poser.pugx.org/masterro/laravel-chronos/v/unstable)](https://packagist.org/packages/masterro/laravel-chronos)
+![License](https://poser.pugx.org/masterro/laravel-chronos/license)](https://packagist.org/packages/masterro/laravel-chronos)
+![composer.lock](https://poser.pugx.org/masterro/laravel-chronos/composerlock)](https://packagist.org/packages/masterro/laravel-chronos)
 </p>
 
 # Laravel Chronos
